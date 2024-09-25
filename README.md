@@ -42,6 +42,7 @@ I am committed to constantly pushing my boundaries, seeking new challenges, and 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Osama-D)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/OsamaDaimallah)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OsamaDaimallah)
+[![Dribbble](https://img.shields.io/badge/Dribbble-1DA1F2?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/osama100)
 
 ## Commitment to Excellence
 
